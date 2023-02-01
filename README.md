@@ -27,3 +27,8 @@ At the start of the game, The player will be promoted with settings menu there t
 3. Place your pieces and win the majority!
 4. Once Won/Lost you can keep on playing for as much as you want, just press yes while you are promoted to restart the game.
 5. Last but not least GL-HF :)
+
+## TBD
+1. Installer will be added soon.
+2. Update graphics to support gifs.
+3. Update sounds.
