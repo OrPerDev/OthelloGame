@@ -11,7 +11,7 @@ Game And Graphics View
 ![OthelloGif](https://user-images.githubusercontent.com/91319947/216062084-8519d5de-ebcf-4252-a78e-fdf3c362a2c3.gif)
 
 
-<font size = "4">About The Game</font>
+<font size = "6">About The Game</font>
 
 The game is a re-creation of Othello (Reversi game) using C# .Net Core 3 and Winforms.
 Othello is an abstract strategy board game invented during the Victorian era.
