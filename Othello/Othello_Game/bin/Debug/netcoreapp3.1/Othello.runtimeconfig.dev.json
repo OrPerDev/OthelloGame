@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\peret\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\peret\\.nuget\\packages"
+    ]
+  }
+}

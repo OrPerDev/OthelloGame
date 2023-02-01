@@ -1,0 +1,17 @@
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\bin\Debug\netcoreapp3.1\Othello.exe
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\bin\Debug\netcoreapp3.1\Othello.deps.json
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\bin\Debug\netcoreapp3.1\Othello.runtimeconfig.json
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\bin\Debug\netcoreapp3.1\Othello.runtimeconfig.dev.json
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\bin\Debug\netcoreapp3.1\Othello.dll
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\bin\Debug\netcoreapp3.1\Othello.pdb
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\obj\Debug\netcoreapp3.1\Othello.Forms.GameBoardForm.resources
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\obj\Debug\netcoreapp3.1\Othello.Forms.GameSettingsForm.resources
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\obj\Debug\netcoreapp3.1\Othello.Properties.Resources.resources
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\obj\Debug\netcoreapp3.1\Othello.csproj.GenerateResource.cache
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\obj\Debug\netcoreapp3.1\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\obj\Debug\netcoreapp3.1\Othello.AssemblyInfoInputs.cache
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\obj\Debug\netcoreapp3.1\Othello.AssemblyInfo.cs
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\obj\Debug\netcoreapp3.1\Othello.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\obj\Debug\netcoreapp3.1\Othello.dll
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\obj\Debug\netcoreapp3.1\Othello.pdb
+C:\CSharpProjects\OthelloReal\A23 Ex05 OrPeretz 313545683 GalDavid 313330144\A23_Ex05_Othello\obj\Debug\netcoreapp3.1\Othello.genruntimeconfig.cache
