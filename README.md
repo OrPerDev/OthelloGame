@@ -24,4 +24,6 @@ At the start of the game, The player will be promoted with settings menu there t
 
 1. Change the size of the board - From "Mini-Othello" size up to 12x12 board which I Call "Max-Othello", each click on the board size button will increse the board size by 2.
 2. Choose whether to play against the compter or with a friend, by clicking one of the choice buttons the game will start and will remain with this game mode.
-3. Place your pieces and GL-HF :)
+3. Place your pieces and win the majority!
+4. Once Won/Lost you can keep on playing for as much as you want, just press yes while you are promoted to restart the game.
+5. Last but not least GL-HF :)
