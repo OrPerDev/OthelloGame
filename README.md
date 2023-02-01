@@ -7,6 +7,7 @@ Technology
 * Winforms
 
 Game And Graphics View
+
 ![OthelloGif](https://user-images.githubusercontent.com/91319947/216062084-8519d5de-ebcf-4252-a78e-fdf3c362a2c3.gif)
 
 
