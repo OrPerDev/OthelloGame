@@ -1,10 +1,11 @@
 # OthelloGame
 
-C# Console app Othello game (reversi), created for a CS course assignment.
+C# Othello game (reversi), created for a CS course assignment.
 
 Technology
-* C# .Net (.Net Core 3)
-* Winforms
+- C# .Net (.Net Core 3)
+- Winforms
+- Code written by Stylecop's rules
 
 Game And Graphics View
 
@@ -28,7 +29,6 @@ At the start of the game, The player will be promoted with settings menu there t
 4. Once Won/Lost you can keep on playing for as much as you want, just press yes while you are promoted to restart the game.
 5. Last but not least GL-HF :)
 
-## TBD
-1. Installer will be added soon.
-2. Update graphics to support gifs.
-3. Update sounds.
+## Stay tuned for!
+1. Installation will be uploaded so everyone can enjoy the game!
+2. Update overall graphics and sounds!
